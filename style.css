@@ -1,0 +1,24 @@
+.jumbotron {
+  background-color: #b7e2fc;
+  margin-bottom: 0%;
+}
+#About-Me {
+  background-color: #abddfc;
+}
+#Education {
+  background-color: #9fd8fb;
+}
+#Awards {
+  background-color: #93d3fb;
+}
+#Socials {
+  background-color: #87cefa;
+}
+tr,
+td {
+  border: 1px solid black;
+  width: 300px;
+}
+#footer {
+  background-color: black;
+}
